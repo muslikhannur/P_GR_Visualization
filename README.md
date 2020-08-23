@@ -1,2 +1,3 @@
-# P_GR_Visualization
-Goodreads Dataset Visualization for Course Final Project
+# Py_Visualizing_Goodreads
+Goodreads Dataset Visualization for Course Final Project </br>
+Asked to make 5 different Viz and its Insight
